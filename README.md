@@ -1,5 +1,8 @@
 - @mushinbush
-- m.s. ntnu-ee student
-- b.s. in fcu-ce
-- assembly/c/python/ml/matlab
-- markakisfiction61533@gmail.com
+- ntnu-ee m.s. student
+- fcu-ce b.s.
+###### Programming...
+assembly/c/python/ml/matlab
+###### Researching...
+- communication system
+- embedded system
