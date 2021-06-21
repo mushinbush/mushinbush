@@ -1,4 +1,4 @@
-- @mushinbush
+@mushinbush
 - ntnu-ee m.s. student
 - fcu-ce b.s.
 ### Programming...
