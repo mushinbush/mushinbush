@@ -2,6 +2,6 @@
 - ntnu-ee m.s. student
 - fcu-ce b.s.
 ### Major Research Areas
-communication system, embedded system, dsp, image processing
+Communication System, Embedded System, DSP, Image Processing(ML)
 ### Programming...
-assembly, c, python, ml, matlab
+Assembly, C, Python, Matlab
