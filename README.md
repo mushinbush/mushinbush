@@ -1,8 +1,8 @@
-### @mushinbush
+## @mushinbush
 ntnu-ee m.s. student  
 fcu-ce b.s.
 
-### Research Areas
+## Research Areas
 Communication System, Embedded System, DSP, Image Processing(ML)
-### Programming...
+## Programming...
 Assembly, C, Python, Matlab
